@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sleepy-mirzakhani-97b390.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://kanikaportfolio.netlify.app/)**
 
 - 📫 How to reach me **kanikagola26@gmail.com**
 
