@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://kanikaportfolio.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://kanikap.netlify.app/)**
 
 - 📫 How to reach me **kanikagola26@gmail.com**
 
