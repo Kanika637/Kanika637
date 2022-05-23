@@ -1,7 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kanika</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+![kanika Banner](https://user-images.githubusercontent.com/84350895/169841612-03e0ee45-dca6-49d7-8fb8-fb159e0b1f24.png)
 
 
 ## 🙋‍♂️ About Me
