@@ -1,13 +1,14 @@
-![kanika Banner](https://user-images.githubusercontent.com/84350895/169841612-03e0ee45-dca6-49d7-8fb8-fb159e0b1f24.png)
+
+![Green Yellow Geometric Digital Marketing LinkedIn Banner](https://user-images.githubusercontent.com/84350895/199031572-4fc6c59b-9e68-4b8d-8ad9-c30dce540976.png)
 
 
 ## 🙋‍♂️ About Me
 <!-- 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently diving deep into **DevOps and Microservices.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Open-Source Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://kanikap.netlify.app/)**
 
