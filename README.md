@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 👨‍💻 I do write blogs which are availible here **[My Portfolio](https://kanika26.hashnode.dev/)**
+- 👨‍💻 I do write blogs which are available here **[My Portfolio](https://kanika26.hashnode.dev/)**
 
 - 📫 How to reach me **kanikagola26@gmail.com**
 
