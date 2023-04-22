@@ -1,5 +1,5 @@
 
-![Green Yellow Geometric Digital Marketing LinkedIn Banner]()![banner](https://user-images.githubusercontent.com/84350895/233795560-95efec29-4d41-4a0c-9deb-2ec1542b6ac0.jpg)
+![banner](https://user-images.githubusercontent.com/84350895/233795560-95efec29-4d41-4a0c-9deb-2ec1542b6ac0.jpg)
 
 
 
